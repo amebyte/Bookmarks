@@ -1,6 +1,6 @@
 # notes 一些工作学习的记录
 1. [【因为H5公众号商城登录回调问题与后端的争吵】详解nginx配置url重定向-反向代理](https://github.com/amebyte/notes/issues/16)
-2. [根据某个字段排序数组大小](https://github.com/amebyte/notes/issues/15)
+2. [根据某个字段排序数组大小和mini最小堆的偏排序算法实现](https://github.com/amebyte/notes/issues/15)
 3. [JS实现简单获取最近7天日期的方法](https://github.com/amebyte/notes/issues/14)
 4. [使用hasOwnProperty，去检测一个属性是否是对象的自有属性，而不是从原型链继承的，eslint报错](https://github.com/amebyte/notes/issues/13)
 5. [电商产品设计——浅析SPU和SKU](https://github.com/amebyte/notes/issues/9)
