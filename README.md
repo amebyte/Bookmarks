@@ -1,4 +1,4 @@
-# notes 一些工作学习的记录
+#  一些工作学习的记录
 1. [在JavaScript中使用inline函数的问题](https://github.com/amebyte/notes/issues/17)
 2. [【因为H5公众号商城登录回调问题与后端的争吵】详解nginx配置url重定向-反向代理](https://github.com/amebyte/notes/issues/16)
 3. [根据某个字段排序数组大小和mini最小堆的偏排序算法实现](https://github.com/amebyte/notes/issues/15)
