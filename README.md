@@ -1,5 +1,9 @@
 #  一些工作学习的记录
+<<<<<<< HEAD
 1. [TCP建立连接为什么是三次握手而不是两次握手](https://github.com/amebyte/myIssues/issues/22)
+=======
+1. [什么是虚拟DOM，为什么要用虚拟DOM](https://github.com/amebyte/myIssues/issues/21) 
+>>>>>>> ac3170984c321bf900870ee91c887ac8350c6ec5
 2. [js获取昨天，最近7天，最近30天通用方法](https://github.com/amebyte/myIssues/issues/20)
 3. [v-model原理及自定义组件的使用](https://github.com/amebyte/myIssues/blob/master/collect/v-model%E5%8E%9F%E7%90%86%E5%8F%8A%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BB%84%E4%BB%B6%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 4. [vite打包的时候，发生了这个错误：‘Form‘ only refers to a type, but is being used as a value here](https://github.com/amebyte/myIssues/issues/19)
