@@ -1,4 +1,4 @@
-#  一些工作学习的记录
+#  一些工作中使用过的资料或学习使用过的记录
 1. [JavaScript 变量声明和函数声明](https://github.com/amebyte/myIssues/issues/23) 
 2. [TCP建立连接为什么是三次握手而不是两次握手](https://github.com/amebyte/myIssues/issues/22) 
 3. [什么是虚拟DOM，为什么要用虚拟DOM](https://github.com/amebyte/myIssues/issues/21) 
